@@ -4,19 +4,19 @@
    <test name="ChromeTest">
 	  	<parameter name="browser" value="chrome" />
 	    <classes>
-	     <class name="com.selenium.sampleWorkFlow.SauceDemoTest"/>
+	     <class name="com.selenium.tests.SauceDemoTest"/>
 	    </classes>
   </test> <!-- Test -->
   <test name="FirefoxTest">
 	  	<parameter name="browser" value="firefox" />
 	    <classes>
-	    <class name="com.selenium.sampleWorkFlow.SauceDemoTest"/>
+	    <class name="com.selenium.tests.SauceDemoTest"/>
 	    </classes>
   </test>
   <test  name="HealessChromeTest">
 	  	<parameter name="browser" value="headless" />
 	    <classes>
-	     <class name="com.selenium.sampleWorkFlow.SauceDemoTest"/>
+	     <class name="com.selenium.tests.SauceDemoTest"/>
 	    </classes>
   </test>
 </suite> <!-- Suite -->

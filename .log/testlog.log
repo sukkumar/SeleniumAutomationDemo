@@ -1,0 +1,36 @@
+2021-06-22 22:08:08,243 - SauceDemoTest -INFO - Launch the application :
+2021-06-22 22:08:09,111 - SauceDemoTest -INFO - Login to application
+2021-06-22 22:08:09,540 - SauceDemoTest -INFO - Sort the items (Lowest Price sort)
+2021-06-22 22:08:09,673 - SauceDemoTest -INFO - Add two items to the shopping cart
+2021-06-22 22:08:10,079 - SauceDemoTest -INFO - Visit the shopping cart
+2021-06-22 22:08:10,196 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:10,304 - SauceDemoTest -INFO - Remove an item and then continue shopping
+2021-06-22 22:08:10,508 - SauceDemoTest -INFO - Add another item
+2021-06-22 22:08:10,803 - SauceDemoTest -INFO - proceed to Checkout
+2021-06-22 22:08:11,347 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:11,430 - SauceDemoTest -INFO - Assert the total price
+2021-06-22 22:08:11,502 - SauceDemoTest -INFO - Finish checkout
+2021-06-22 22:08:15,477 - SauceDemoTest -INFO - Launch the application :
+2021-06-22 22:08:15,945 - SauceDemoTest -INFO - Login to application
+2021-06-22 22:08:16,365 - SauceDemoTest -INFO - Sort the items (Lowest Price sort)
+2021-06-22 22:08:16,640 - SauceDemoTest -INFO - Add two items to the shopping cart
+2021-06-22 22:08:17,223 - SauceDemoTest -INFO - Visit the shopping cart
+2021-06-22 22:08:17,564 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:17,621 - SauceDemoTest -INFO - Remove an item and then continue shopping
+2021-06-22 22:08:18,186 - SauceDemoTest -INFO - Add another item
+2021-06-22 22:08:18,818 - SauceDemoTest -INFO - proceed to Checkout
+2021-06-22 22:08:19,584 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:19,661 - SauceDemoTest -INFO - Assert the total price
+2021-06-22 22:08:19,703 - SauceDemoTest -INFO - Finish checkout
+2021-06-22 22:08:21,657 - SauceDemoTest -INFO - Launch the application :
+2021-06-22 22:08:24,602 - SauceDemoTest -INFO - Login to application
+2021-06-22 22:08:25,016 - SauceDemoTest -INFO - Sort the items (Lowest Price sort)
+2021-06-22 22:08:25,161 - SauceDemoTest -INFO - Add two items to the shopping cart
+2021-06-22 22:08:25,356 - SauceDemoTest -INFO - Visit the shopping cart
+2021-06-22 22:08:25,478 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:25,538 - SauceDemoTest -INFO - Remove an item and then continue shopping
+2021-06-22 22:08:25,777 - SauceDemoTest -INFO - Add another item
+2021-06-22 22:08:26,042 - SauceDemoTest -INFO - proceed to Checkout
+2021-06-22 22:08:26,776 - SauceDemoTest -INFO - Assert that the items that added are in the cart
+2021-06-22 22:08:26,823 - SauceDemoTest -INFO - Assert the total price
+2021-06-22 22:08:26,943 - SauceDemoTest -INFO - Finish checkout

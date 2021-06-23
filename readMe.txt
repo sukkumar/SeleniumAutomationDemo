@@ -15,10 +15,10 @@
       under Resources/log4j.properties"
     
 2) Execution:
-     User can check and the project and simple go ahead and run , rest everything in place
-         		- the test class under src/test/java > com.selenium.test > SauceDemoTest.java
+     User need to clone the project,import to editor(eclipse,etc), and run 
    				- the xmls (Suite4ParallelRun / Suite4SeqRun) at the root folder level
-   				- the Maven goal "mvn clean install"
+   			    	(or)
+   				- the Maven goal "mvn clean test"
    				
       
     
