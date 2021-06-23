@@ -1,0 +1,36 @@
+2021-06-22 16:55:51,596 [main] INFO SauceDemoTest - Launch the application :
+2021-06-22 16:55:52,132 [main] INFO SauceDemoTest - Login to application
+2021-06-22 16:55:52,795 [main] INFO SauceDemoTest - Sort the items (Lowest Price sort)
+2021-06-22 16:55:53,341 [main] INFO SauceDemoTest - Add two items to the shopping cart
+2021-06-22 16:55:53,604 [main] INFO SauceDemoTest - Visit the shopping cart
+2021-06-22 16:55:53,844 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:55:53,947 [main] INFO SauceDemoTest - Remove an item and then continue shopping
+2021-06-22 16:55:54,253 [main] INFO SauceDemoTest - Add another item
+2021-06-22 16:55:54,530 [main] INFO SauceDemoTest - proceed to Checkout
+2021-06-22 16:55:55,149 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:55:55,257 [main] INFO SauceDemoTest - Assert the total price
+2021-06-22 16:55:55,384 [main] INFO SauceDemoTest - Finish checkout
+2021-06-22 16:56:02,360 [main] INFO SauceDemoTest - Launch the application :
+2021-06-22 16:56:03,690 [main] INFO SauceDemoTest - Login to application
+2021-06-22 16:56:04,436 [main] INFO SauceDemoTest - Sort the items (Lowest Price sort)
+2021-06-22 16:56:05,117 [main] INFO SauceDemoTest - Add two items to the shopping cart
+2021-06-22 16:56:05,663 [main] INFO SauceDemoTest - Visit the shopping cart
+2021-06-22 16:56:05,992 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:56:06,059 [main] INFO SauceDemoTest - Remove an item and then continue shopping
+2021-06-22 16:56:06,646 [main] INFO SauceDemoTest - Add another item
+2021-06-22 16:56:07,234 [main] INFO SauceDemoTest - proceed to Checkout
+2021-06-22 16:56:07,970 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:56:08,007 [main] INFO SauceDemoTest - Assert the total price
+2021-06-22 16:56:08,041 [main] INFO SauceDemoTest - Finish checkout
+2021-06-22 16:56:10,088 [main] INFO SauceDemoTest - Launch the application :
+2021-06-22 16:56:12,929 [main] INFO SauceDemoTest - Login to application
+2021-06-22 16:56:14,588 [main] INFO SauceDemoTest - Sort the items (Lowest Price sort)
+2021-06-22 16:56:14,724 [main] INFO SauceDemoTest - Add two items to the shopping cart
+2021-06-22 16:56:14,993 [main] INFO SauceDemoTest - Visit the shopping cart
+2021-06-22 16:56:15,166 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:56:15,271 [main] INFO SauceDemoTest - Remove an item and then continue shopping
+2021-06-22 16:56:15,545 [main] INFO SauceDemoTest - Add another item
+2021-06-22 16:56:15,795 [main] INFO SauceDemoTest - proceed to Checkout
+2021-06-22 16:56:16,341 [main] INFO SauceDemoTest - Assert that the items that added are in the cart
+2021-06-22 16:56:16,395 [main] INFO SauceDemoTest - Assert the total price
+2021-06-22 16:56:16,483 [main] INFO SauceDemoTest - Finish checkout

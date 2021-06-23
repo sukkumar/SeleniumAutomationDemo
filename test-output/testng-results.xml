@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-22T16:55:49 EDT" name="Suite" finished-at="2021-06-22T16:56:16 EDT" duration-ms="27372">
+    <groups>
+    </groups>
+    <test started-at="2021-06-22T16:55:49 EDT" name="ChromeTest" finished-at="2021-06-22T16:55:55 EDT" duration-ms="6339">
+      <class name="com.selenium.sampleWorkFlow.SauceDemoTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@10e31a9a]" started-at="2021-06-22T16:55:49 EDT" name="setUp" finished-at="2021-06-22T16:55:52 EDT" duration-ms="2906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sacuceTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@10e31a9a]" started-at="2021-06-22T16:55:52 EDT" name="sacuceTest" finished-at="2021-06-22T16:55:55 EDT" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sacuceTest -->
+        <test-method is-config="true" signature="endOfTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@10e31a9a]" started-at="2021-06-22T16:55:55 EDT" name="endOfTest" finished-at="2021-06-22T16:55:55 EDT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endOfTest -->
+      </class> <!-- com.selenium.sampleWorkFlow.SauceDemoTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2021-06-22T16:55:55 EDT" name="FirefoxTest" finished-at="2021-06-22T16:56:08 EDT" duration-ms="13327">
+      <class name="com.selenium.sampleWorkFlow.SauceDemoTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@689604d9]" started-at="2021-06-22T16:55:55 EDT" name="setUp" finished-at="2021-06-22T16:56:03 EDT" duration-ms="8095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sacuceTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@689604d9]" started-at="2021-06-22T16:56:03 EDT" name="sacuceTest" finished-at="2021-06-22T16:56:08 EDT" duration-ms="4358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sacuceTest -->
+        <test-method is-config="true" signature="endOfTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@689604d9]" started-at="2021-06-22T16:56:08 EDT" name="endOfTest" finished-at="2021-06-22T16:56:08 EDT" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endOfTest -->
+      </class> <!-- com.selenium.sampleWorkFlow.SauceDemoTest -->
+    </test> <!-- FirefoxTest -->
+    <test started-at="2021-06-22T16:56:08 EDT" name="HealessChromeTest" finished-at="2021-06-22T16:56:16 EDT" duration-ms="7623">
+      <class name="com.selenium.sampleWorkFlow.SauceDemoTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@4562e04d]" started-at="2021-06-22T16:56:08 EDT" name="setUp" finished-at="2021-06-22T16:56:12 EDT" duration-ms="4000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[headless]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sacuceTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@4562e04d]" started-at="2021-06-22T16:56:12 EDT" name="sacuceTest" finished-at="2021-06-22T16:56:16 EDT" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sacuceTest -->
+        <test-method is-config="true" signature="endOfTest()[pri:0, instance:com.selenium.sampleWorkFlow.SauceDemoTest@4562e04d]" started-at="2021-06-22T16:56:16 EDT" name="endOfTest" finished-at="2021-06-22T16:56:16 EDT" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endOfTest -->
+      </class> <!-- com.selenium.sampleWorkFlow.SauceDemoTest -->
+    </test> <!-- HealessChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

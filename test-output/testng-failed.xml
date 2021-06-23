@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.selenium.sampleWorkFlow.SauceDemoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="sacuceTest"/>
+          <include name="endOfTest"/>
+          <include name="excelSetUp"/>
+        </methods>
+      </class> <!-- com.selenium.sampleWorkFlow.SauceDemoTest -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test thread-count="3" parallel="tests" name="HealessChromeTest(failed)">
+    <parameter name="browser" value="headless"/>
+    <classes>
+      <class name="com.selenium.sampleWorkFlow.SauceDemoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="sacuceTest"/>
+          <include name="endOfTest"/>
+          <include name="excelSetUp"/>
+        </methods>
+      </class> <!-- com.selenium.sampleWorkFlow.SauceDemoTest -->
+    </classes>
+  </test> <!-- HealessChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
