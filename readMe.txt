@@ -21,6 +21,7 @@
    				- the Maven goal "mvn clean test"
    				
       ** this is test edit
+new edit from repo directly
     
                  
     
